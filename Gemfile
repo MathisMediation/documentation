@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll-theme-chirpy", "~> 5.5", ">= 5.5.2"
+gem "github-pages", "~> 5.5", ">= 5.5.2"
 
 group :test do
   gem "html-proofer", "~> 3.18"
