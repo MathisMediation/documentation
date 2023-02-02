@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem "github-pages", "~> 5.5", ">= 5.5.2"
+gem "github-pages"
 
 group :test do
   gem "html-proofer", "~> 3.18"
